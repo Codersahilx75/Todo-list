@@ -1,0 +1,21 @@
+[
+    {
+      "id": "task-1",
+      "title": "Buy groceries",
+      "description": "Milk, Eggs, Bread, and Butter",
+      "section": "task-section"
+    },
+    {
+      "id": "task-2",
+      "title": "Prepare presentation",
+      "description": "Finalize slides for tomorrow's meeting",
+      "section": "progress-section"
+    },
+    {
+      "id": "task-3",
+      "title": "Pay bills",
+      "description": "Electricity and Internet bills",
+      "section": "complete-section"
+    }
+  ]
+  
